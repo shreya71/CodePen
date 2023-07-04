@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CodePen/static/css/main.d908717c.css",
+    "main.js": "/CodePen/static/js/main.7df1dae4.js",
+    "index.html": "/CodePen/index.html",
+    "main.d908717c.css.map": "/CodePen/static/css/main.d908717c.css.map",
+    "main.7df1dae4.js.map": "/CodePen/static/js/main.7df1dae4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d908717c.css",
+    "static/js/main.7df1dae4.js"
+  ]
+}
